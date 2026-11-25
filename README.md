@@ -30,10 +30,10 @@ Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitH
   <a href="https://www.linkedin.com/in/tomascustodio17">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/SEU_USER">
+  <a href="https://www.instagram.com/tomascustodio17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/SEU_USER">
+  <a href="https://www.facebook.com/Tomas custodio">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
