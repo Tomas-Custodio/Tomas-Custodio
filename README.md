@@ -52,8 +52,6 @@ Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitH
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**Portal de Notícias**](https://github.com/Tomas-Custodio/Portal_de_noticias) | Site de publicação de notícias | Laravel, Tailwind CSS |
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**WiseStore**](https://github.com/Tomas-Custodio/WiseStore) | Aplicação web | Laravel, Blade |
 
-Também desenvolvi o **SGE**, um sistema de gestão escolar em Laravel feito por encomenda.
-
 ## 🤝 Freelance
 
 Estou aberto a projetos freelance: sites, sistemas de gestão, APIs e e-commerce com Laravel.
