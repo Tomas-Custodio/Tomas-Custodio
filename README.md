@@ -51,10 +51,14 @@ Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitH
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**WaveOn**](https://github.com/Tomas-Custodio/WaveOn) | Plataforma de descoberta musical | Laravel, Tailwind CSS |
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**Portal de Notícias**](https://github.com/Tomas-Custodio/Portal_de_noticias) | Site de publicação de notícias | Laravel, Tailwind CSS |
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**WiseStore**](https://github.com/Tomas-Custodio/WiseStore) | Aplicação web | Laravel, Blade |
+| [MyPorto](https://github.com/Tomas-Custodio/MyPorto) | Este portfólio, com rotas, layout responsivo e deploy na Vercel | React, TypeScript, Vite |
 
 ## 🤝 Freelance
 
 Estou aberto a projetos freelance: sites, sistemas de gestão, APIs e e-commerce com Laravel.
+
+🌐 Portfólio
+[tomas-custodio.vercel.app](https://tomas-custodio.vercel.app)
 
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/tomascustodio17)
 
