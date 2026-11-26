@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Tomás Custódio 👋</h1>
+# Olá, eu sou o Tomás Custódio 👋
 
 <p align="center">
-  <b>PHP & Laravel Developer | Full-Stack Web Developer | MySQL | REST APIs | Git & GitHub 🇦🇴
+  **PHP & Laravel Developer | Full-Stack Web Developer | MySQL | REST APIs | Git & GitHub 🇦🇴**
 </p>
 
 ---
@@ -12,7 +12,6 @@ Sou desenvolvedor web, focado em PHP e Laravel. Construo aplicações completas,
 
 Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitHub, e integro APIs REST em aplicações reais. Gosto de construir projetos de ponta a ponta e de aprender com cada um.
 
-
 ## 🛠️ Tecnologias
 
 <p>
@@ -20,8 +19,11 @@ Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitH
 </p>
 
 **Back-end:** PHP, Laravel, Livewire, APIs REST, Eloquent ORM
+
 **Front-end:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript
+
 **Base de dados:** MySQL
+
 **Ferramentas:** Git, GitHub, VS Code
 
 ## 🌐 Redes sociais
@@ -51,14 +53,13 @@ Trabalho com PHP, Laravel, Livewire, MySQL, Tailwind CSS, HTML, CSS e Git & GitH
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**WaveOn**](https://github.com/Tomas-Custodio/WaveOn) | Plataforma de descoberta musical | Laravel, Tailwind CSS |
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**Portal de Notícias**](https://github.com/Tomas-Custodio/Portal_de_noticias) | Site de publicação de notícias | Laravel, Tailwind CSS |
 | <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**WiseStore**](https://github.com/Tomas-Custodio/WiseStore) | Aplicação web | Laravel, Blade |
-| [MyPorto](https://github.com/Tomas-Custodio/MyPorto) | Este portfólio, com rotas, layout responsivo e deploy na Vercel | React, TypeScript, Vite |
+| <img src="https://api.iconify.design/heroicons/folder.svg?color=%233B82F6&width=20&height=20" width="20" alt=""> | [**MyPorto**](https://github.com/Tomas-Custodio/MyPorto) | Este portfólio, com rotas, layout responsivo e deploy na Vercel | React, TypeScript, Vite |
 
 ## 🤝 Freelance
 
 Estou aberto a projetos freelance: sites, sistemas de gestão, APIs e e-commerce com Laravel.
 
-🌐 Portfólio
-[tomas-custodio.vercel.app](https://tomas-custodio.vercel.app)
+🌐 **Portfólio:** [tomas-custodio.vercel.app](https://tomas-custodio.vercel.app)
 
 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/tomascustodio17)
 
